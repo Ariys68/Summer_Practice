@@ -1,0 +1,18 @@
+Electronic Document Preparation and Management/9781408522516/Oxford University/526
+Python Curse/978-617-679-853-8/Erick Mattes/380
+Head First. Java/978-617-522-033-7/Kathy Sierra/790
+C Programming for Dummies/111974024X/Dan Gookin/750
+Practical C Programming/9781565923065/Steve Oualline/820
+Software Engineering at Google/1492082791/Titus Winters/1020
+The Self-taught Programmer/1472147103/Cory Althoff/610
+Clean Coder, The: A Code of Conduct for Professional Programmers/0137081073/Martin Robert/800
+C. Programming Language/0131101633/Brian W. Kernighan/1430
+C Programming Absolute Beginner's Guide/0789751984/Perry Greg/863
+Embedded C Coding Standard/1721127984/Michael Barr/210
+Think Like a Programmer/1593274246/V. Anton Spraul/710
+
+
+
+
+
+
